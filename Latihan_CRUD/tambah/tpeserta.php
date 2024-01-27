@@ -7,7 +7,7 @@ include "../koneksi.php";
 
 <head>
     <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <title>tambah buku</title>
+    <title>tambah peserta</title>
 </head>
 
 <body class="bg-secondary">

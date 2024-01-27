@@ -12,7 +12,7 @@ include "../koneksi.php";
 
 <body class="bg-secondary">
     <div class="container mb-3 p-3">
-        <h4>Halaman Tambah Buku.</h4>
+        <h4>Halaman Tambah Peeserta</h4>
         <a href="../index.php" class="btn btn-primary">KEMBALI</a>
         <hr>
         <form action="ptpeserta.php" method="post" enctype="multipart/form-data">
